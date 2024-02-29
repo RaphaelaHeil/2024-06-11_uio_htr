@@ -10,7 +10,7 @@ While transformer-based HTR models are gaining popularity, this workshop will fo
 
 2024-06-11 at University of Oslo
 
-More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html]([https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html))
+More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html)
 
 
 
