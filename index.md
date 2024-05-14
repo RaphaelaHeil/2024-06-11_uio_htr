@@ -13,6 +13,19 @@ While transformer-based HTR models are gaining popularity, this workshop will fo
 More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html)
 
 
+## Preliminary Lesson Plan
+_Please note that the lesson plan may still undergo changes until 1-2 weeks before the workshop._
+
+0. Welcome and introductions
+1. General Introduction to Handwritten Text Recognition
+2. Data for HTR
+3. Preprocessing
+4. HTR Models and the CTC Loss
+5. Inference and Sequence Decoding
+6. Performance Metrics
+7. General Thoughts and Experiences from Implementing HTR Models
+8. Final questions and wrapping up
+
 
 ## Setup Instructions
 _Installation instructions and related pieces of information will be added below in due time._
