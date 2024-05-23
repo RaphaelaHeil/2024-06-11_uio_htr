@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## :warning: This workshop has been postponed until autumn 2024. A new announcement will be posted on the [BærUt website](https://www.ub.uio.no/english/libraries/dsc/berut/) as soon as all details have been finalised :warning:
+## This workshop has been postponed until autumn 2024. A new announcement will be posted on the [BærUt website](https://www.ub.uio.no/english/libraries/dsc/berut/) as soon as all details have been finalised
 
 
 This workshop provides a technical introduction to deep-learning-based handwritten text recognition (HTR). We will begin with a general introduction to the topic and outline a typical HTR pipeline. Afterwards, each pipeline's steps will be discussed in detail, including hands-on exercises using PyTorch.
@@ -12,9 +12,9 @@ The presented examples will focus on a handwritten document scenario, however th
 While transformer-based HTR models are gaining popularity, this workshop will focus on the more classical but still state-of-the-art approach of Connectionist Temporal Classification. The workshop will conclude with thoughts on reproducibility and experiences from training HTR models on computing centre resources.
 ## When & Where? 
 
-~2024-06-11 at University of Oslo~
+~~2024-06-11 at University of Oslo~~
 
-~More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html)~
+~~More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11_workshop_2.html)~~
 
 
 ## Preliminary Lesson Plan
