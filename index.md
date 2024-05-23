@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# :warning: This workshop has been postponed until autumn 2024. A new announcement will be posted on the [BærUt website](https://www.ub.uio.no/english/libraries/dsc/berut/) as soon as all details have been finalised :warning:
+## :warning: This workshop has been postponed until autumn 2024. A new announcement will be posted on the [BærUt website](https://www.ub.uio.no/english/libraries/dsc/berut/) as soon as all details have been finalised :warning:
 
 
 This workshop provides a technical introduction to deep-learning-based handwritten text recognition (HTR). We will begin with a general introduction to the topic and outline a typical HTR pipeline. Afterwards, each pipeline's steps will be discussed in detail, including hands-on exercises using PyTorch.
